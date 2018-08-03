@@ -1,4 +1,11 @@
-# Hugo.io - Classic Theme
+# Hugo - Software Kit
+
+Forked from the [Hugo -
+Classic](https://github.com/goodroot/hugo-classic) theme. I'll update
+this readme eventually, but for now things in the readme are pretty
+similar other than the name changing.
+
+---
 
 Classic is forked from the **XMin** theme, written by [Yihui Xie](https://yihui.name). I made a fresh remix of it for my [personal blog](https://goodroot.ca). It provides some simplifications, `highlight.js` for syntax highlighting, emoji support, and slick fonts.
 
@@ -28,7 +35,7 @@ cd classic/themes
 git clone git@github.com:goodroot/hugo-classic.git
 ```
 
-5: Copy the `content/`, `static/css`, and `config.toml` from the `exampleSite` directory into the classic directory. The existing `content/`, `static/css`, and `config.toml` files will be over-written. 
+5: Copy the `content/`, `static/css`, and `config.toml` from the `exampleSite` directory into the classic directory. The existing `content/`, `static/css`, and `config.toml` files will be over-written.
 
 6: Run `hugo server` within `classic/` and enjoy and customize to your hearts content!
 
